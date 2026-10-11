@@ -1,5 +1,7 @@
-<img width="1891" height="937" alt="image" src="https://github.com/user-attachments/assets/1a122cfe-883e-4a2f-a0ad-5bccf6446ed3" />
-<img width="1905" height="970" alt="image" src="https://github.com/user-attachments/assets/2041d4bc-437a-4f27-8294-0fddec04a26f" />
+<img width="1913" height="938" alt="image" src="https://github.com/user-attachments/assets/86b34bb0-1522-4604-bddb-cd8ffc77cad8" />
+
+<img width="1905" height="970" alt="image" src="https://github.com/user-attachments/assets/2b519b0b-ebe7-46d4-b6a1-0410df877724" />
+
 
 # dice_game
 
