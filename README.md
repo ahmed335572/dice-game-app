@@ -1,3 +1,6 @@
+<img width="1891" height="937" alt="image" src="https://github.com/user-attachments/assets/1a122cfe-883e-4a2f-a0ad-5bccf6446ed3" />
+<img width="1905" height="970" alt="image" src="https://github.com/user-attachments/assets/2041d4bc-437a-4f27-8294-0fddec04a26f" />
+
 # dice_game
 
 A new Flutter project.
